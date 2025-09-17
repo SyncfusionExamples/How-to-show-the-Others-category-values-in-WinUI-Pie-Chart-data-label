@@ -90,12 +90,13 @@ public class DataLabelYValueConverter : IValueConverter
 }
 
 ```
+**See also**
+
+[Data template in WinUI Circular chart](https://help.syncfusion.com/winui/circular-charts/datalabels#template).
 
 **Output**
 
 <img width="746" alt="Output" src="https://user-images.githubusercontent.com/105482474/231132237-e9c674a4-bb4c-487f-adc5-e7cb7dfe1e8f.png">
 
-**See also**
 
-[Data template in WinUI Circular chart](https://help.syncfusion.com/winui/circular-charts/datalabels#template).
-
+KB Link - [How to show the "Others” category values in WinUI Pie Chart data label](https://support.syncfusion.com/kb/article/12681/show-the-others-category-values-in-winui-pie-chart-data-label).
